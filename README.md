@@ -2,10 +2,10 @@
 
 ![CRUD Tareas](https://github.com/user-attachments/assets/2d188d87-e63c-46d7-8100-f4032ff1857a)  
 
-## 🛠 Tecnologías utilizadas  
-- **Python**  
-- **Django**  
-- **PostgreSQL**  
+✅ **Tecnologías utilizadas:**  
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) **Python**  
+- ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat) **Django**  
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat) **PostgreSQL**  
 
 ## 📌 Sobre el Proyecto  
 Este es un **CRUD** para la gestión de tareas desarrollado como parte de una **prueba técnica**, utilizando **vistas basadas en funciones (FBV)**.  
